@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PLDScript</string>
+    <string name="title">欢迎使用PLDSript</string>
+    <string name="btn_open_accessibility">打开无障碍服务设置</string>
+    <string name="accessibility_description">用于PLDScript的自动化服务</string>
+    <string name="btn_open_overlay">打开悬浮窗权限</string>
+    <string name="btn_start_script">启动脚本</string>
+    <string name="navigation_home">首页</string>
+    <string name="navigation_scripts">脚本</string>
+    <string name="navigation_settings">设置</string>
+    <string name="text_hint">点击三角形按钮启动脚本</string>
+</resources>
